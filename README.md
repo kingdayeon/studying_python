@@ -1,1 +1,1 @@
-# studying_python
+# Practicing python with some HWs
