@@ -8,4 +8,4 @@ elif first < second:
  print('큰 수: %d' %(second))
  print('작은 수: %d' %(first))
 else:
- print('두 수는 같습니다.'
+ print('두 수는 같습니다.')
