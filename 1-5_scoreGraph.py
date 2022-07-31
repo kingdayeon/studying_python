@@ -1,0 +1,8 @@
+print('점수를 입력하세요.')
+score = float(input())
+upOrDown = int((score+0.5))
+stick = int((score+5) / 10)
+print()
+print('----막대그래프---')
+print('%d점' %(upOrDown),'', end='' )
+print('*'* int(stick))
